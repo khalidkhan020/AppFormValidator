@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">ValidationLibrary</string>
+    <string name="empty_field">%s field must not be empty</string>
+    <string name="zero_field">%s value must be grater than zero</string>
+    <string name="email_invalid">%s is not valid</string>
+    <string name="mobile_invalid">%s is not valid</string>
+    <string name="name_invalid">%s is not valid</string>
+     <string name="invalid_username">%s must not contain white space or special Characters
+    </string>
+        <string name="invalid_length" formatted="false">%s length must be greater than %d Characters
+    </string>
+    <string name="no_internet">No internet connection</string>
 </resources>
