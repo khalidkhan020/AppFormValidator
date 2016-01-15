@@ -1,4 +1,4 @@
-package mhealth.com.appformvalidator;
+package com.appzone.formvalidator;
 
 import org.junit.Test;
 

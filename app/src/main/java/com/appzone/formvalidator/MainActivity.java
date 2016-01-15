@@ -1,4 +1,4 @@
-package mhealth.com.appformvalidator;
+package com.appzone.formvalidator;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
